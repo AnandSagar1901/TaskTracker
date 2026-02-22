@@ -1,5 +1,5 @@
 # TaskTracker
-TaskTracker AI Media Edition
+TaskTracker AI
 Overview
 
 TaskTracker AI Media Edition is a Python-based desktop application that uses artificial intelligence to extract, manage, and prioritize tasks from multiple sources including manual input, text, audio, and video.
