@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3795a937-e382-4a06-a090-22285aa0728b",
+    "text": "Finalize Fortnite squad tournament",
+    "completed": false,
+    "timestamp": 1771889219,
+    "priority_score": 5,
+    "source": "ai"
+  },
+  {
+    "id": "904b0ec1-3cbe-41b4-be56-11f232c69387",
+    "text": "Reply in the group chat with ideas",
+    "completed": false,
+    "timestamp": 1771889219,
+    "priority_score": 4,
+    "source": "ai"
+  },
+  {
+    "id": "a56e9db0-ad35-4726-8233-e842a6ab1ac6",
+    "text": "Check science notes",
+    "completed": false,
+    "timestamp": 1771889219,
+    "priority_score": 3,
+    "source": "ai"
+  },
+  {
+    "id": "aaa1f34d-5697-4f7e-a658-00c4fc50c4ad",
+    "text": "Bring basketball gear on Saturday morning",
+    "completed": false,
+    "timestamp": 1771889219,
+    "priority_score": 2,
+    "source": "ai"
+  },
+  {
+    "id": "2005212c-5769-46b0-b298-05bde33689b7",
+    "text": "Grab snacks for game night",
+    "completed": false,
+    "timestamp": 1771889219,
+    "priority_score": 1,
+    "source": "ai"
+  }
+]
